@@ -1,5 +1,7 @@
 - 👋 Hi, i'm sai preetham
-i'm 
+    i'm back end developer, photographer and adobephotoshop
+    
+    
 
 <!---
 SaiCher21/SaiCher21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
