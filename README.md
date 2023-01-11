@@ -1,5 +1,5 @@
 - 👋 Hi, i'm sai preetham
-    i'm back end developer, photographer and adobephotoshop
+    
     
     
 
