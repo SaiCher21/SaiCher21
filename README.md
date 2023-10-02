@@ -1,4 +1,4 @@
-- 👋 Hi, i'm sai preetham
+- 👋 Hi, I'm preetham
     
     
     
